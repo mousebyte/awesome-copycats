@@ -5,3 +5,12 @@
 [submodule "freedesktop"]
 	path = freedesktop
 	url = https://github.com/lcpz/awesome-freedesktop.git
+[submodule "net_widgets"]
+	path = net_widgets
+	url = https://github.com/pltanton/net_widgets
+[submodule "awesome-wm-widgets"]
+	path = awesome-wm-widgets
+	url = https://github.com/streetturtle/awesome-wm-widgets
+[submodule "awesomewm-screenshot"]
+	path = awesomewm-screenshot
+	url = https://github.com/mousebyte/awesomewm-screenshot
