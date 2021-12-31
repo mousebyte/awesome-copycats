@@ -1,4 +1,7 @@
 rc.lua
+moonrc.moon
+moonbind.moon
+autorun.sh
 rc.lua.save
 theme-personal.lua
 .luacheckrc
